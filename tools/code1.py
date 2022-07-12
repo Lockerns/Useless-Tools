@@ -15,3 +15,5 @@ a_norm = (a - a_mean) / a_std
 b_norm = (b - b_mean) / b_std
 a_norm = np.round(a_norm, decimals=2)
 b_norm = np.round(b_norm, decimals=2)
+print(a)
+print(b)
