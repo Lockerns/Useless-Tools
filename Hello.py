@@ -1,3 +1,3 @@
 import numpy as np
-print('Hello, Github!')
+print('GoodNight!')
 
