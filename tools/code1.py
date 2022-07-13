@@ -11,6 +11,7 @@ a_std = np.std(a)
 b_mean = np.mean(b)
 b_std = np.std(b)
 
+
 a_norm = (a - a_mean) / a_std
 b_norm = (b - b_mean) / b_std
 a_norm = np.round(a_norm, decimals=2)
